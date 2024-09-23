@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+form{
+    background-color: #181818;
+    color: white;
+    padding: 5%;
+    margin: 1%;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: #181818;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    font-size: 2.5rem;
+    text-align: center;
+    
+}
+
+h2{
+    font-size: 1.5rem;
+}
+
+label, legend{
+    font-size: 1.5rem;
+}
+
+label:hover {
+    transition: color 0.5;
+    color:#C4EBC8;
+}
+
+
+legend{
+    font-weight: 700;
+}
+
+#toptext{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
